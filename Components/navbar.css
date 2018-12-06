@@ -1,0 +1,19 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: #c3d2d4;
+	padding-left: 15px;
+
+}
+
+.navbar:hover {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: #DBCDBA;
+	padding-left: 15px;
+	
+
+
+}

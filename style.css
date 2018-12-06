@@ -1,0 +1,39 @@
+@import	url(Components/images.css);
+@import url(Components/banner.css);
+@import url(Components/button.css);
+@import	url(Components/list.css);
+@import	url(Components/navbar.css);
+@import url(Components/icones.css);
+@import url(Components/cards.css);
+@import url(Components/avatar.css);
+
+body { 
+
+	text-align: center;
+	margin: 0px;
+	background: #c3d2d4;
+
+	}
+
+img{
+	align-content: center;}
+
+
+a {
+	text-decoration: none;
+}
+
+.background-white {
+	background-color: white;
+}
+
+.follow{
+
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+
+.padded {
+	padding: 30px;
+}
