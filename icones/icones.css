@@ -2,7 +2,7 @@
 
 h2{
 	font-family: 'Nanum Gothic', sans-serif;
-	font-size: 10px
+	font-size: 10px;
 	letter-spacing: 50px;
 }
 
@@ -15,10 +15,10 @@ h2{
 
 .my-container {
 	margin-top: 30px;
-	
+
 
 }
-.icones: {
+.icones {
 	
 	color: #E8E8DC;
 	text-align: center;
@@ -33,14 +33,15 @@ h2{
 }
 
 h2 {
-	margin: 15px;
-	
+	margin: 15px;	
 	letter-spacing: 2px;
 	font-size: 20px;
 }
-p{
+
+
+
+ p {
 	margin: 15px;
-	
 	letter-spacing: 2px;
-	font-size: 10px;
+	font-size: 10px !important;
 }

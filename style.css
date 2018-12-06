@@ -3,9 +3,13 @@
 @import url(Components/button.css);
 @import	url(Components/list.css);
 @import	url(Components/navbar.css);
-@import url(Components/icones.css);
 @import url(Components/cards.css);
 @import url(Components/avatar.css);
+@import url(Components/icones.css);
+@import	url(Components/menu.css);
+
+@import	url(Components/form.css);
+
 
 body { 
 
@@ -23,6 +27,10 @@ a {
 	text-decoration: none;
 }
 
+p {
+	font-size: 14px !important;
+}
+
 .background-white {
 	background-color: white;
 }
@@ -30,10 +38,61 @@ a {
 .follow{
 
 	font-family: 'Nanum Gothic', sans-serif;
-	font-size: 20px;
-	letter-spacing: 5px;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 80px;
+	padding-top: 40px;
+	color: white;
 }
+
 
 .padded {
 	padding: 30px;
 }
+
+
+
+.fab{
+
+	height: : 30px;
+	width: 50px;
+}
+
+.follow1{
+
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 60px;
+	padding-top: 60px; 
+
+}
+h1{
+
+	font-size: 40px;
+	color: black;
+}
+ 
+.btn-banner {
+
+	background-color:  black;
+	border: none;
+	margin-top: 20px;
+
+}
+
+.btn-banner:hover {
+
+	background-color:  white;
+	border: none;
+	color: #c3d2d4;
+}
+
+h5 {
+
+	font-size: 20px;
+	letter-spacing: 5px;
+	color: black;
+
+}
+
