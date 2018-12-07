@@ -15,7 +15,7 @@ body {
 
 	text-align: center;
 	margin: 0px;
-	background: #c3d2d4;
+	background: #eff3f6;
 
 	}
 
@@ -95,4 +95,32 @@ h5 {
 	color: black;
 
 }
+
+.video {
+
+	padding-bottom: 100px;
+	padding-top: 100px;
+	
+
+}
+h6{
+
+	color: black;
+	font-size: 25px;
+	letter-spacing: 5px;
+	padding-bottom: 40px;
+}
+
+.footer{
+
+	background-color: #c5d9e6;
+}
+
+.follow3{
+
+	margin-top: 50px;
+}
+
+
+	
 
