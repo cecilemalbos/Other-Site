@@ -1,5 +1,5 @@
 .banner{ 
-background-image: linear-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2)), url("https://github.com/cecilemalbos/Other-Site/blob/master/Image/fond2.png?raw=true");
+background-image: linear-gradient(rgba(255,255,252,0.2), rgba(255,255,255,0.5)), url("https://images.unsplash.com/photo-1518665750801-883c188a660d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
 height: 100vh;
 background-size: cover; 
 background-position: center; 
@@ -8,6 +8,7 @@ align-items: center;
 text-align: center;
 justify-content: space-around;
 margin-bottom: 100px;
+position: relative;
 
 }
 

@@ -33,7 +33,7 @@ p{
 	border-radius: 1%;
 	color: black;
 	 border: 3px solid white;
-	 background-color: rgba(255,255,255, 0.9);
+	 background-color: rgba(255,255,255, 0.7);
 
 	
 
@@ -43,7 +43,7 @@ p{
 
 
 	.banner2 {
-    background-image: url(https://images.unsplash.com/photo-1517965623714-cbaadea459b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80&fbclid=IwAR1YDheNpn5y55DwtLtaNfakmdvnMHyLzUJ1lj5kDzo9pQjtSWt-h51qqjc);
+    background-image: url(https://images.unsplash.com/photo-1522165078649-823cf4dbaf46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
     height: 100vh;
     background-size: cover;
     background-position: center;

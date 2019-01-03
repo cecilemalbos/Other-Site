@@ -11,16 +11,23 @@
 @import	url(Components/form.css);
 
 
+
 body { 
 
 	text-align: center;
-	margin: 0px;
-	background: #c3d2d4;
+	bottom: 0px;
+	background: #f2f0f1;
 
 	}
 
 img{
-	align-content: center;}
+	padding-bottom: 40px;
+	height: 200px !important;
+	width: 170px !important;
+	border-style: white;
+	
+
+}
 
 
 a {
@@ -28,7 +35,11 @@ a {
 }
 
 p {
-	font-size: 14px !important;
+	font-size: 18px !important;
+	letter-spacing: 4px !important;
+	color: #b1755f !important; 
+	position: center !important;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 .background-white {
@@ -68,22 +79,27 @@ p {
 
 }
 h1{
-
-	font-size: 40px;
-	color: black;
+ 
+	font-size: 18px !important;
+	letter-spacing: 4px !important;
+	color: #b1755f !important; 
+	position: center !important;
+	font-family: 'Source Sans Pro', sans-serif;
 }
+
  
 .btn-banner {
 
-	background-color:  black;
+	background-color: #b1755f;
 	border: none;
 	margin-top: 20px;
+	color: white;
 
 }
 
 .btn-banner:hover {
 
-	background-color:  white;
+	background-color: white;
 	border: none;
 	color: #c3d2d4;
 }
@@ -95,4 +111,34 @@ h5 {
 	color: black;
 
 }
+
+.video {
+
+	padding-bottom: 100px;
+	padding-top: 100px;
+	
+
+}
+h6 {
+
+	color: black;
+	font-size: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 20px;
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+.footer{
+
+	background-color: #ecd3c7;
+}
+
+.follow3{
+
+	margin-top: 50px;
+}
+
+
+	
 
